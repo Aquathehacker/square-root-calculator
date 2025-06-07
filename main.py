@@ -1,18 +1,18 @@
-import math
+import math 
 import sys 
 
 print("Welcome")
 
-a = int(input("Enter your number: "))
+a = float(input("Enter your number: "))    
 
 if a < 0: 
-    print("please enter a positive number") 
+    print("please enter a positive number")        #only positive numbers 
     sys.exit()
 
 
 else: 
     b = math.sqrt(a)
-    print("The answer is:" , (b))
+    print("The answer is:" , (b))                # the answer
     
     
     
