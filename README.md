@@ -13,6 +13,8 @@ No External Dependencies are required.
 Note if Python3 does not work try running it with only python  ,
 
 Steps
+
+
 1 change to the square root folder
 2 python main.py
 
