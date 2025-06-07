@@ -16,6 +16,8 @@ Steps
 
 
 1 change to the square root folder
+
+
 2 python main.py
 
 thats it.
